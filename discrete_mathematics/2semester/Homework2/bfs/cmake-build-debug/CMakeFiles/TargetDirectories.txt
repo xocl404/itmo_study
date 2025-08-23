@@ -1,0 +1,3 @@
+C:/Users/yarsi/OneDrive/Рабочий стол/discrete mathematics/bfs/cmake-build-debug/CMakeFiles/bfs.dir
+C:/Users/yarsi/OneDrive/Рабочий стол/discrete mathematics/bfs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yarsi/OneDrive/Рабочий стол/discrete mathematics/bfs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
